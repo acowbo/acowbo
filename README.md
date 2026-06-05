@@ -6,10 +6,10 @@
 ---
 
 ## 📫 联系我
-- **主页**: [主页](https://acowbo.fun)
+- **主页**: [主页](https://acowbo.com)
 - **GitHub**: [acowbo](https://github.com/acowbo)
 - **CSDN**: [acowbo's Blog](https://blog.csdn.net/Mrxiao_bo)
-- **博客**: [技术博客](https://blog.acowbo.fun)
+- **博客**: [技术博客](https://face.acowbo.com)
 
 🚀 贡献：如果你对我的项目感兴趣，欢迎 Star 或 Fork。如果你有任何问题或建议，欢迎通过 Issue 提交，或者直接发邮件与我联系。我非常欢迎大家的贡献！
 
